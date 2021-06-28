@@ -1,0 +1,28 @@
+{
+    "username": "Ganon",
+    "email": "ganon@gmail.com",
+    "password": "destroyZelda"
+}
+
+{
+    "username": "Link",
+    "email": "link@gmail.com",
+    "password": "defendZelda"
+}
+
+{
+    "username": "Zelda",
+    "email": "z@gmail.com",
+    "password": "Zelda"
+}
+
+{
+    "title": "Runbuddy reaches 1 million",
+    "post_url": "https://runbuddy.com/press",
+    "user_id": 1
+}
+
+{
+    "user_id": 1,
+    "post_id": 1
+}
